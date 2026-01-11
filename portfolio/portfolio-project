@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>John Doe Portfolio</title>
+</head>
+<body>
+
+<!-- Header -->
+<h1>John Doe</h1>
+<p>Web Developer | Designer | Problem Solver</p>
+<hr>
+
+<!-- Navigation -->
+<p>
+<a href="#about">About</a> | 
+<a href="#skills">Skills</a> | 
+<a href="#portfolio">Portfolio</a> | 
+<a href="#contact">Contact</a>
+</p>
+
+<!-- About Me -->
+<a name="about"></a>
+<h2>About Me</h2>
+<p>Hello! I am John Doe. I am a web developer. I have experience in HTML, CSS, JavaScript, and PHP Laravel. I like making websites that are useful and easy to use.</p>
+<p>In my free time, I like learning new things, designing user interfaces, and experimenting with code.</p>
+
+<!-- Skills -->
+<a name="skills"></a>
+<h2>My Skills</h2>
+<table border="1" cellpadding="5" cellspacing="0">
+<tr>
+<th>Skill</th>
+<th>Proficiency</th>
+</tr>
+<tr>
+<td>HTML</td>
+<td>90%</td>
+</tr>
+<tr>
+<td>CSS</td>
+<td>80%</td>
+</tr>
+<tr>
+<td>JavaScript</td>
+<td>70%</td>
+</tr>
+<tr>
+<td>PHP & Laravel</td>
+<td>60%</td>
+</tr>
+<tr>
+<td>UI/UX Design</td>
+<td>75%</td>
+</tr>
+</table>
+
+<!-- Portfolio -->
+<a name="portfolio"></a>
+<h2>Portfolio</h2>
+<table border="1" cellpadding="5" cellspacing="5">
+<tr>
+<td>
+<h3>Project 1</h3>
+<p>Responsive website built using HTML and CSS.</p>
+<img src="https://via.placeholder.com/200x100" alt="Project 1">
+</td>
+<td>
+<h3>Project 2</h3>
+<p>Web application using PHP Laravel and MySQL database.</p>
+<img src="https://via.placeholder.com/200x100" alt="Project 2">
+</td>
+<td>
+<h3>Project 3</h3>
+<p>Interactive design project focusing on UI/UX.</p>
+<img src="https://via.placeholder.com/200x100" alt="Project 3">
+</td>
+</tr>
+</table>
+
+<!-- Contact -->
+<a name="contact"></a>
+<h2>Contact Me</h2>
+<p>Email: johndoe@example.com</p>
+<p>Phone: +1234567890</p>
+<p>Address: 123 Web Street, City, Country</p>
+
+<hr>
+<p>&copy; 2026 John Doe | Portfolio made with HTML only</p>
+
+</body>
+</html>
